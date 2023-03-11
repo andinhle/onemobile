@@ -285,12 +285,12 @@ ul.main-menu li a:hover{
     text-align: center;
     color: #FFFFFF;
     display: inline;
-    padding: 10px;
+    padding: 6px;
     margin-left: 10px;
 }
 .fa-headset:last-child{
     background: linear-gradient(180deg, rgba(26, 45, 210, 0.96) 0%, rgba(255, 23, 246, 0.69) 100%);
-    padding: 13px;
+    padding: 9px;
     text-align: center;
     color: #FFFFFF;
     display: inline;
