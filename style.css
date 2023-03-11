@@ -258,12 +258,11 @@ ul.main-menu li a:hover{
     height: 698px;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
 }
 .fixed-support{
     position: absolute;
-    right: 80px;
-    top: 485px;
+    right: 0px;
+    bottom: 0px;
     position: fixed;
     
 }
@@ -311,6 +310,7 @@ ul.main-menu li a:hover{
     width: 598px;
     height: 540px;
     margin: 20px 40px;
+    position: relative;
 }
 .banner-content-text h1{
     font-size: 50px;
